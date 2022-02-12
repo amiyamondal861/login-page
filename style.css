@@ -1,0 +1,30 @@
+.admin-box{
+    background-color: blue;
+    padding:20px
+    width: 60%
+    margin: auto;
+    text-align: center;
+}
+.admin-box h1{
+    color:white;
+    font-size:45px;
+}
+.admin-box font{
+
+}
+.admin-box form input{
+width: 60%;
+margin:5px auto;
+padding: 10px
+border: none;
+}
+#btn{
+
+}
+.links{
+margin-top:20px;
+}
+.links a{
+text-decoration;none;
+color:white;
+}

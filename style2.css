@@ -1,0 +1,32 @@
+#{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    float: left;
+} 
+header{
+width:100%;
+}
+.logo-part{
+    background-color: aqua;
+    width:33.33% ;
+    float: left;
+}
+.menu-part{
+    background-color: blue;
+    width:33.33%;
+    float: left;
+}
+.search-part{
+    background-color: blanchedalmond;
+    width: 33.33%;
+    float: left;
+}
+
+p,
+span{
+    background-color: aqua;
+    border: 1px solid;
+    padding:10px ;
+
+}
